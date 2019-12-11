@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="126aeb1a-a6a3-4e3d-8eb3-a2cbaa0a427c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Gameng_Lab 05_ LinkedList_2019-10-08_20-39/notebook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gameng_Lab 06_ Hashtable_2019-10-21_00-41/notebook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gameng_Lab 07_ StackApps_2019-10-26_18-19/notebook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gameng_Lab 08_ CircQueue_2019-10-27_01-59/notebook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gameng_Lab 09_ Heaps_2019-11-02_07-39/notebook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gameng_Lab 10_ Recursion_2019-11-17_03-46/notebook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gameng_Lab 11_ BSTree_2019-11-23_16-10/notebook.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gameng_Lab 12_ AVLTree_2019-11-26_20-07/notebook.ipynb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UoWrXRWLIm0GFhBuUpSxINlxh4" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="126aeb1a-a6a3-4e3d-8eb3-a2cbaa0a427c" name="Default Changelist" comment="" />
+      <created>1576023628298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576023628298</updated>
+      <workItem from="1576023634845" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
